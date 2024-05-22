@@ -1,0 +1,42 @@
+<html>
+<style type="text/css">
+	body {
+		color: black;
+	}
+	body {
+        background-color: white;
+	}
+	
+	h2 {
+		background-color: palevioletred;
+		color: white;
+	}
+
+	
+</style>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Loja de cosméticos</title>
+</head>
+<body>
+	<fieldset>
+	<center><h1><img src="https://res.cloudinary.com/beleza-na-web/image/upload/f_auto,fl_progressive,q_auto:best/v1/imagens/brands/sheglam_65d5fdeec4936428e5552b1d/logo_logo-sheglamsvg"/h1></center>
+	</fieldset>
+	<h2><center>Loja de cosméticos</center></h2>
+	<p>Sejam bem vindos a <strong>SHEGLAM</strong>. Nessa loja, voçê encontrará produtos para fazer sua maquiagem!</p>
+	<hr>
+	<img src="https://s2-marieclaire.glbimg.com/ryVBvQIhwfHFQYzrfsAkbw8f0cQ=/0x0:828x635/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_51f0194726ca4cae994c33379977582d/internal_photos/bs/2024/V/8/hpTGELSOmlX7JlXJ88Aw/img-7043.png" height="450" width="450">
+	<br>
+ 	<p>Selecione a cor:</p>
+ 	<h3>Cor 1<input type="radio" name="m" id=""></h3>
+ 	<h3>Cor 2<input type="radio" name="m" id=""></h3>
+ 	<h3>Cor 3<input type="radio" name="m" id=""></h3>
+ 	<h3>Cor 4<input type="radio" name="m" id=""></h3>
+ 	<h3>Cor 5<input type="radio" name="m" id=""></h3>
+
+
+
+</body>
+</html>
